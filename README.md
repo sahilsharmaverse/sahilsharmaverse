@@ -6,13 +6,11 @@
 > AI/ML Engineer   |   Computer Vision   |   Robotics & Embedded Systems   |   Data Science
 ```
 
-<a href="https://www.linkedin.com/in/sahil-sharma-44684a255"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" width="28" style="filter: invert(45%) sepia(90%) saturate(1000%) hue-rotate(180deg);" /></a>
-&nbsp;
-<a href="mailto:sahilsharma.ips08@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="28" width="28" /></a>
-&nbsp;
-<a href="https://github.com/sahilsharmaverse"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="28" width="28" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-sharma-44684a255)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilsharma.ips08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilsharmaverse)
 
-<br><br>
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sahilsharmaverse&color=orange&style=flat-square&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/sahilsharmaverse?style=flat-square&color=orange&label=FOLLOWERS)
@@ -39,37 +37,37 @@ currently:   Def-Space Intern @ BSERC — Viksit Bharat Abhiyan @2047
 <tr>
 <td valign="top" width="150"><b>Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=py,cpp,cs" height="45" />
+<img src="https://skillicons.dev/icons?i=py,cpp,cs&theme=light" height="45" />
 </td>
 </tr>
 <tr>
 <td valign="top"><b>AI / ML / DL</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="45" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=light" height="45" />
 </td>
 </tr>
 <tr>
 <td valign="top"><b>Computer Vision</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=opencv" height="45" />
+<img src="https://skillicons.dev/icons?i=opencv&theme=light" height="45" />
 </td>
 </tr>
 <tr>
 <td valign="top"><b>MLOps & Cloud</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=docker,aws,fastapi,git,githubactions" height="45" />
+<img src="https://skillicons.dev/icons?i=docker,aws,fastapi,git,githubactions&theme=light" height="45" />
 </td>
 </tr>
 <tr>
 <td valign="top"><b>Databases</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" height="45" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&theme=light" height="45" />
 </td>
 </tr>
 <tr>
 <td valign="top"><b>Embedded / XR</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=unity,arduino,html" height="45" />
+<img src="https://skillicons.dev/icons?i=unity,arduino,html&theme=light" height="45" />
 </td>
 </tr>
 </table>
@@ -90,7 +88,7 @@ currently:   Def-Space Intern @ BSERC — Viksit Bharat Abhiyan @2047
 
 Software-only AI system upgrading legacy CCTV — weapon, violence, fire & intrusion detection at **sub-3s latency**. DPDP-compliant, multi-language, deployed via Docker + AWS microservices.
 
-<img src="https://skillicons.dev/icons?i=fastapi,opencv,docker,aws" height="32" />
+<img src="https://skillicons.dev/icons?i=fastapi,opencv,docker,aws&theme=light" height="32" />
 
 </td>
 <td width="33%" valign="top">
@@ -101,7 +99,7 @@ Software-only AI system upgrading legacy CCTV — weapon, violence, fire & intru
 
 Real-time CNN + LSTM pipeline for ISL-to-text/speech translation, using MediaPipe landmark tracking across 26 gestures. Full pipeline from data collection to inference.
 
-<img src="https://skillicons.dev/icons?i=py" height="32" />
+<img src="https://skillicons.dev/icons?i=py&theme=light" height="32" />
 
 </td>
 <td width="33%" valign="top">
@@ -111,7 +109,7 @@ Real-time CNN + LSTM pipeline for ISL-to-text/speech translation, using MediaPip
 
 Interactive 3D simulations with gesture navigation and multi-device collaboration — optimized for low-latency vocational skill training.
 
-<img src="https://skillicons.dev/icons?i=unity,cs" height="32" />
+<img src="https://skillicons.dev/icons?i=unity,cs&theme=light" height="32" />
 
 </td>
 </tr>
@@ -121,7 +119,7 @@ Interactive 3D simulations with gesture navigation and multi-device collaboratio
 ### ⚡ [CircuitCraft](https://github.com/sahilsharmaverse/CircuitCraft)
 🏆 Winner — Circuit Craft 2025
 
-<img src="https://skillicons.dev/icons?i=html" height="32" />
+<img src="https://skillicons.dev/icons?i=html&theme=light" height="32" />
 
 </td>
 <td width="33%" valign="top">
@@ -129,7 +127,7 @@ Interactive 3D simulations with gesture navigation and multi-device collaboratio
 ### 🎓 [SkillCircle](https://github.com/sahilsharmaverse/SkillCircle)
 Skill-development learning platform
 
-<img src="https://skillicons.dev/icons?i=html" height="32" />
+<img src="https://skillicons.dev/icons?i=html&theme=light" height="32" />
 
 </td>
 <td width="33%" valign="top">
@@ -137,7 +135,7 @@ Skill-development learning platform
 ### 🚗 [Maze-Solving Robot](https://github.com/sahilsharmaverse/MAZE-SOLVING-ROBOT)
 Autonomous PID-based navigation robot
 
-<img src="https://skillicons.dev/icons?i=cpp,arduino" height="32" />
+<img src="https://skillicons.dev/icons?i=cpp,arduino&theme=light" height="32" />
 
 </td>
 </tr>
@@ -208,10 +206,12 @@ Autonomous PID-based navigation robot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahilsharmaverse&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sahil's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsharmaverse&theme=radical&hide_border=true" alt="Sahil's GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sahilsharmaverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Sahil's GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsharmaverse&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Sahil's GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharmaverse&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharmaverse&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
+
+*If a widget above doesn't load, it's usually the free Vercel/Heroku host being asleep or rate-limited — refresh the page after a few seconds, or view live stats directly: [GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilsharmaverse) · [Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sahilsharmaverse)*
 
 </div>
 
